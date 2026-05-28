@@ -20,7 +20,10 @@ Computer Science graduate with hands-on experience in developing full-stack web 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ **Backend Engineering**
-![C# / .NET 8](https://img.shields.io/badge/C%23%20%2F%20%2ENET%208-121214?style=for-the-badge&logo=csharp&logoColor=68217A) ![ASP.NET Web API](https://img.shields.io/badge/ASP%2ENET%20Web%20API-121214?style=for-the-badge&logo=nuget&logoColor=31B6E7) ![.NET MVC](https://img.shields.io/badge/%2ENET%20MVC-121214?style=for-the-badge&logo=diagram-next&logoColor=007ACC) ![EF Core & LINQ](https://img.shields.io/badge/EF%20Core%20%26%20LINQ-121214?style=for-the-badge&logo=databricks&logoColor=B15DFF)
+![C# / .NET 8](https://img.shields.io/badge/C%23%20%2F%20%2E%20NET%208-512BD4?style=for-the-badge&logo=%2Enet&logoColor=white)
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-512BD4?style=for-the-badge&logo=%2Enet&logoColor=white)
+![.NET MVC](https://img.shields.io/badge/.NET%20MVC-512BD4?style=for-the-badge&logo=%2Enet&logoColor=white)
+![EF Core & LINQ](https://img.shields.io/badge/EF%20Core%20%26%20LINQ-512BD4?style=for-the-badge&logo=%2Enet&logoColor=white)
 
 ### 🗄️ **Database**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
