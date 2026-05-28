@@ -21,9 +21,11 @@ Computer Science graduate with hands-on experience in developing full-stack web 
 
 ### ⚙️ **Backend Engineering**
 ![C# / .NET 8](https://img.shields.io/badge/C%23%20%2F%20%2E%20NET%208-512BD4?style=for-the-badge&logo=%2Enet&logoColor=white)
-![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-512BD4?style=for-the-badge&logo=%2Enet&logoColor=white)
-![.NET MVC](https://img.shields.io/badge/.NET%20MVC-512BD4?style=for-the-badge&logo=%2Enet&logoColor=white)
 ![EF Core & LINQ](https://img.shields.io/badge/EF%20Core%20%26%20LINQ-512BD4?style=for-the-badge&logo=%2Enet&logoColor=white)
+![.NET MVC](https://img.shields.io/badge/.NET%20MVC-512BD4?style=for-the-badge&logo=%2Enet&logoColor=white)
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-512BD4?style=for-the-badge&logo=%2Enet&logoColor=white)
+
+
 
 ### 🗄️ **Database**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
