@@ -20,35 +20,10 @@ Computer Science graduate with hands-on experience in developing full-stack web 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ **Backend Engineering**
-
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- C# / .NET 8 Card -->
-    <td>
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://img.shields.io/badge/C%23%20%2F%20%2ENET%208-121214?style=for-the-badge&logo=csharp&logoColor=68217A&borderColor=232329" alt="C# / .NET 8" />
-      </a>
-    </td>
-    <!-- ASP.NET Web API Card -->
-    <td>
-      <a href="https://learn.microsoft.com/en-us/aspnet/core/web-api/" target="_blank">
-        <img src="https://img.shields.io/badge/ASP%2ENET%20Web%20API-121214?style=for-the-badge&logo=nuget&logoColor=239120&borderColor=232329" alt="ASP.NET Web API" />
-      </a>
-    </td>
-    <!-- .NET MVC Card -->
-    <td>
-      <a href="https://learn.microsoft.com/en-us/aspnet/core/mvc/overview" target="_blank">
-        <img src="https://img.shields.io/badge/%2ENET%20MVC-121214?style=for-the-badge&logo=diagram-next&logoColor=007ACC&borderColor=232329" alt=".NET MVC" />
-      </a>
-    </td>
-    <!-- EF Core & LINQ Card -->
-    <td>
-      <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank">
-        <img src="https://img.shields.io/badge/EF%20Core%20%26%20LINQ-121214?style=for-the-badge&logo=databricks&logoColor=B15DFF&borderColor=232329" alt="EF Core & LINQ" />
-      </a>
-    </td>
-  </tr>
-</table>
+![C# / .NET 8](https://img.shields.io/badge/C%23%20%2F%20%2ENET%208-121214?style=for-the-badge&logo=csharp&logoColor=68217A) 
+![ASP.NET Web API](https://img.shields.io/badge/ASP%2ENET%20Web%20API-121214?style=for-the-badge&logo=nuget&logoColor=31B6E7) 
+![.NET MVC](https://img.shields.io/badge/%2ENET%20MVC-121214?style=for-the-badge&logo=diagram-next&logoColor=007ACC) 
+![EF Core & LINQ](https://img.shields.io/badge/EF%20Core%20%26%20LINQ-121214?style=for-the-badge&logo=databricks&logoColor=B15DFF)
 
 ### 🗄️ **Database**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
