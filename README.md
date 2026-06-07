@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone, I'm Karen Ashraf</h1>
-<h3 align="center"> Full-Stack Web Developer in Angular and .NET </h3>
+<h3 align="center"> Full-Stack Web Developer in Angular and ASP.NET </h3>
 
 ---
 
